@@ -1,0 +1,22 @@
+{
+  "name": "rn-image-indexer",
+  "version": "1.0.0",
+  "description": "This repo help to create basic JSON object form images folder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahulpurohit/rn-image-file-indexer.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Rahul Purohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahulpurohit/rn-image-file-indexer/issues"
+  },
+  "homepage": "https://github.com/Rahulpurohit/rn-image-file-indexer#readme"
+}
